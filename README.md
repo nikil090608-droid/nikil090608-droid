@@ -1,154 +1,182 @@
+<div align="center">
+
 # 👋 Hi, I'm Nikil
 
-### 🚀 B.Tech CSE (AI & Data Science) Student | AI Enthusiast | Full-Stack Developer
+### 🚀 AI & Data Science Student • Developer • Builder
 
-I’m a passionate developer who enjoys building **AI-powered applications, web projects, and real-world solutions**.
+<p>
+  <b>Turning ideas into real-world applications.</b>
+</p>
 
-I love turning ideas into working products, exploring new technologies, and participating in **hackathons, buildathons, and developer challenges**.
+<p>
+  🤖 Artificial Intelligence &nbsp; • &nbsp;
+  🌐 Full-Stack Development &nbsp; • &nbsp;
+  🚀 Hackathons &nbsp; • &nbsp;
+  💡 Problem Solving
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
+🎓 **B.Tech CSE — Artificial Intelligence & Data Science**
 
-🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
+I'm a developer who enjoys building practical applications and experimenting
+with **AI, web technologies, automation, and software development**.
 
-🌐 Learning Full-Stack Web Development
+I enjoy taking an idea from:
 
-🚀 Building real-world projects and applications
+**💡 Idea → 🧠 Learn → 💻 Build → 🧪 Test → 🚀 Deploy**
 
-🏆 Interested in Hackathons & Innovation Challenges
-
-📚 Currently improving my DSA, AI and software development skills
-
-💡 I believe in learning by building
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🌐 Building modern web applications
+- 🧠 Improving Data Structures & Algorithms
+- 🚀 Participating in hackathons and buildathons
+- 🔧 Building projects that solve real-world problems
+- 📚 Continuously learning new technologies
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### 🤖 AI & Data
+### ⚙️ Backend & Database
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-009688?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 🗄️ Database
+### 🤖 AI / Data
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🏋️ FormFit AI
 
-An AI-powered fitness assistant designed to analyze exercise posture and provide form feedback.
+AI-powered fitness application designed to analyze exercise form and provide feedback.
 
-### Features
-- 📷 Camera-based exercise analysis
+**Highlights**
+
+- 📷 Camera-based analysis
 - 🔢 Rep counting
 - 📊 Form evaluation
 - 🎯 Exercise tracking
 - 💡 Real-time feedback
 
-**Tech:** AI • Computer Vision • React • JavaScript
+**Tech:** React • JavaScript • AI
 
----
+</td>
+
+<td width="50%">
 
 ## 🎮 Ganesh Chaturthi Game
 
-An interactive cultural game based on the Ganesh Chaturthi festival.
+Interactive cultural game inspired by Ganesh Chaturthi.
 
-The project focuses on combining **game development, Indian culture, creativity, and awareness about eco-friendly celebrations**.
+**Highlights**
+
+- 🎮 Interactive gameplay
+- 🪔 Festival theme
+- 🌱 Eco-friendly awareness
+- 🎨 Interactive design
 
 **Tech:** HTML • CSS • JavaScript
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## 🏠 Hostel Food QR System
 
-A QR-based food distribution system designed for PG and hostel environments.
+QR-based food distribution system for PG and hostel environments.
 
-### Features
+**Features**
 
-- 👨‍🎓 Student registration
+- 👨‍🎓 Student management
 - 🆔 Automatic student IDs
-- 📱 QR-based verification
-- ⏱️ QR scan cooldown
-- 👨‍💼 Admin dashboard
-- 📊 Student management
+- 📱 QR verification
+- ⏱️ Scan cooldown
 - 🔐 OTP authentication
+- 👨‍💼 Admin panel
 
 **Tech:** React • Node.js • MongoDB
 
----
+</td>
 
-## 🤖 Semantic Search & RAG System
+<td width="50%">
 
-An AI-powered semantic search system using vector embeddings and Retrieval-Augmented Generation.
+## 🤖 Semantic Search & RAG
 
-### Technologies
+AI-powered semantic search system using vector embeddings and retrieval.
 
-- Python
-- FAISS
-- Embeddings
-- LangChain
-- RAG
-- Vector Search
+**Features**
 
----
+- 🔎 Semantic search
+- 🧠 Embeddings
+- 📚 Document retrieval
+- 🤖 RAG pipeline
+- ⚡ Vector search
 
-# 🏆 Hackathons & Challenges
+**Tech:** Python • FAISS • LangChain
 
-🚀 Hackathons
-
-🤖 AI & ML Challenges
-
-🎮 Game Development
-
-💡 Innovation Challenges
-
-🌐 Full-Stack Development
-
-🧠 AI Agent Projects
-
-🔧 Buildathons
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Hackathons & Innovation
+
+I enjoy participating in challenges where technology can be used to solve
+real-world problems.
 
 ```text
-Artificial Intelligence
-Machine Learning
-Data Structures & Algorithms
-React
-Node.js
-MongoDB
-REST APIs
-RAG Systems
-AI Agents
-System Design
+🤖 AI / ML
+🌐 Web Development
+🎮 Game Development
+💡 Innovation
+🚀 Product Building
+🧠 AI Agents
+🔧 Automation
