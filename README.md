@@ -124,10 +124,9 @@ An AI-powered semantic search system using embeddings and retrieval-augmented ge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikil090608-droid&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikil090608-droid&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🎯 Current Goals
