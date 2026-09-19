@@ -1,48 +1,57 @@
-# 👋 Hi, I'm Nikil!
+# 👋 Hi, I'm Nikil
 
-### 🚀 B.Tech CSE (AI & DS) Student | AI Enthusiast | Full-Stack Developer | Hackathon Builder
+### 🚀 B.Tech CSE (AI & Data Science) Student | AI Enthusiast | Full-Stack Developer
 
-I'm a passionate developer interested in **Artificial Intelligence, Data Science, Web Development, and innovative technology**.
+I’m a passionate developer who enjoys building **AI-powered applications, web projects, and real-world solutions**.
 
-I enjoy turning ideas into working projects, participating in hackathons, and continuously learning new technologies.
+I love turning ideas into working products, exploring new technologies, and participating in **hackathons, buildathons, and developer challenges**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
 
-💡 Interested in AI, Machine Learning & Full-Stack Development
+🤖 Interested in Artificial Intelligence, Machine Learning & Data Science
 
-🚀 Building real-world projects and prototypes
+🌐 Learning Full-Stack Web Development
 
-🏆 Participating in hackathons and developer challenges
+🚀 Building real-world projects and applications
 
-📚 Currently improving my DSA, AI and development skills
+🏆 Interested in Hackathons & Innovation Challenges
 
-🌱 Always learning something new
+📚 Currently improving my DSA, AI and software development skills
+
+💡 I believe in learning by building
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🤖 AI / Data
+### 🤖 AI & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-009688?style=for-the-badge)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
 
@@ -52,116 +61,94 @@ I enjoy turning ideas into working projects, participating in hackathons, and co
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏋️ FormFit AI
+## 🏋️ FormFit AI
 
-AI-powered fitness assistant that uses computer vision to analyze exercise form and provide feedback.
+An AI-powered fitness assistant designed to analyze exercise posture and provide form feedback.
 
-**Technologies:** AI • Computer Vision • React • JavaScript
+### Features
+- 📷 Camera-based exercise analysis
+- 🔢 Rep counting
+- 📊 Form evaluation
+- 🎯 Exercise tracking
+- 💡 Real-time feedback
 
----
-
-### 🎮 Ganesh Chaturthi Game
-
-An interactive cultural game designed around the Ganesh Chaturthi festival, combining gameplay with awareness about eco-friendly celebrations.
-
-**Technologies:** HTML • CSS • JavaScript
-
----
-
-### 🏠 Hostel Food QR System
-
-A QR-based food distribution system designed for PG/hostel environments.
-
-**Features:**
-- Student registration
-- Unique student IDs
-- QR-based food verification
-- Scan cooldown system
-- Admin dashboard
-- Student management
-
-**Technologies:** React • Node.js • MongoDB
+**Tech:** AI • Computer Vision • React • JavaScript
 
 ---
 
-### 🤖 Semantic Search & RAG
+## 🎮 Ganesh Chaturthi Game
 
-An AI-powered semantic search system using embeddings and retrieval-augmented generation.
+An interactive cultural game based on the Ganesh Chaturthi festival.
 
-**Technologies:** Python • FAISS • Embeddings • RAG • LangChain
+The project focuses on combining **game development, Indian culture, creativity, and awareness about eco-friendly celebrations**.
 
----
-
-## 🏆 Hackathons & Challenges
-
-🚀 Hackathons & Buildathons
-
-🤖 AI/ML Projects
-
-🎮 Game Development Challenges
-
-💡 Innovation & Problem-Solving Challenges
-
-🔧 Full-Stack Development Projects
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 🏠 Hostel Food QR System
 
-<div align="center">
+A QR-based food distribution system designed for PG and hostel environments.
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikil090608-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+### Features
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikil090608-droid&theme=tokyonight&hide_border=true" />
+- 👨‍🎓 Student registration
+- 🆔 Automatic student IDs
+- 📱 QR-based verification
+- ⏱️ QR scan cooldown
+- 👨‍💼 Admin dashboard
+- 📊 Student management
+- 🔐 OTP authentication
 
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikil090608-droid&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
----
-
-## 🎯 Current Goals
-
-- 🧠 Improve Artificial Intelligence & Machine Learning skills
-- 💻 Build more real-world applications
-- 🚀 Participate in more hackathons
-- 📚 Strengthen Data Structures & Algorithms
-- 🌐 Become a strong Full-Stack Developer
-- 🤖 Build useful AI-powered products
+**Tech:** React • Node.js • MongoDB
 
 ---
 
-## 🌐 Connect With Me
+## 🤖 Semantic Search & RAG System
 
-<div align="center">
+An AI-powered semantic search system using vector embeddings and Retrieval-Augmented Generation.
 
-<a href="https://github.com/nikil090608-droid">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Technologies
 
-</div>
-
----
-
-## 💡 Developer Quote
-
-> "Build. Learn. Improve. Repeat. 🚀"
+- Python
+- FAISS
+- Embeddings
+- LangChain
+- RAG
+- Vector Search
 
 ---
 
-<div align="center">
+# 🏆 Hackathons & Challenges
 
-### ⭐ Thanks for visiting my profile!
+🚀 Hackathons
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikil090608-droid&color=blue&style=for-the-badge)
+🤖 AI & ML Challenges
 
-</div>
+🎮 Game Development
+
+💡 Innovation Challenges
+
+🌐 Full-Stack Development
+
+🧠 AI Agent Projects
+
+🔧 Buildathons
+
+---
+
+# 📚 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Structures & Algorithms
+React
+Node.js
+MongoDB
+REST APIs
+RAG Systems
+AI Agents
+System Design
